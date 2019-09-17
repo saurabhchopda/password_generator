@@ -1,3 +1,5 @@
+# Random Password Generator
+
 import random
 
 characters = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890@$'
